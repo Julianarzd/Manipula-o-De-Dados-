@@ -1,2 +1,2 @@
-# Manipula-o-De-Dados-
+# Manipulacao-De-Dados
 Aulas de Desenvolvimento rápido em Python
