@@ -1,2 +1,2 @@
 # Manipulacao-De-Dados
-Aulas de Desenvolvimento rápido em Python
+Projeto com RAD em aula.
